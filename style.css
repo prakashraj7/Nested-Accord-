@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.prak1 {
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+* {
+  text-align: center;
+}
